@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+/Status-100Percent-Mac.app/
+/Status-100Percent-Windows/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
