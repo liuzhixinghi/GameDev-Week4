@@ -11,6 +11,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Status-40Percent.png
+/Status-50Percent.png
+/Status-60Percent.png
+/Status-70Percent.png
+/Status-80Percent.png
+/Status-90Percent.png
+/Status-100Percent.png
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
